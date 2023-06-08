@@ -1,0 +1,9 @@
+Chaind Id, Router Address, Zero address => constant => index.ts
+all rcp urls and token lists => constant => lists.ts
+factory address => constant => v1 => index.ts
+multicall network chaind id => constant => multicall => index.ts
+migrator address => constant => abis => migrator.ts
+ERC20 interface => constant => abis => erc20.ts
+argent wallet detector mainnet address => constant => abis => argentwallet.ts
+staking rewards interface => constant => abis => staking-reward-interface.ts
+supported wallet constants  => constant => index.ts
